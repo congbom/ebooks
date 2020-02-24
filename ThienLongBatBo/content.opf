@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	    <dc:contributor opf:role="bkp">calibre (2.76.0) [https://calibre-ebook.com]</dc:contributor>
+	    <dc:publisher>https://downloadsachmienphi.com</dc:publisher>
+	    <dc:subject>Kiếm Hiệp</dc:subject>
+	    <meta name="cover" content="cover"/>
+	    <dc:language>en</dc:language>
+	    <dc:title>Thiên Long Bát Bộ (bản mới)</dc:title>
+	    <meta name="calibre:timestamp" content="2017-02-06T04:48:10.289000+00:00"/>
+	    <dc:identifier id="uuid_id" opf:scheme="uuid">1407e879-58c8-4af4-8146-f9edb01606a1</dc:identifier>
+	    <dc:identifier opf:scheme="calibre">1407e879-58c8-4af4-8146-f9edb01606a1</dc:identifier>
+	    <meta name="calibre:title_sort" content="Thiên Long Bát Bộ (bản mới)"/>
+	    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+	    <dc:description>Truyện: Thiên Long Bát Bộ (bản mới), Tác giả: Kim Dung, Tạo bởi: Nguyễn Kim Vỹ</dc:description>
+	    <dc:creator opf:file-as="Dung, Kim" opf:role="aut">Kim Dung</dc:creator>
+  	</metadata>
+  	<manifest>
+	    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+	    <item href="OEBPS/Text/00.html" id="chapter00" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/01.html" id="chapter01" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/02.html" id="chapter02" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/03.html" id="chapter03" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/04.html" id="chapter04" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/05.html" id="chapter05" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/06.html" id="chapter06" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/Text/lastpage.html" id="lastpage" media-type="application/xhtml+xml"/>
+	    <item href="OEBPS/nav.xhtml" id="navid" media-type="application/xhtml+xml"/>
+	    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+	    <!-- <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/> -->
+  	</manifest>
+  	<!-- <spine toc="ncx">
+	    <itemref idref="titlepage"/>
+	    <itemref idref="TOC.xhtml"/>
+	    <itemref idref="chapter00"/>
+	    <itemref idref="chapter01"/>
+	    <itemref idref="chapter02"/>
+	    <itemref idref="chapter03"/>
+	    <itemref idref="chapter04"/>
+	    <itemref idref="chapter05"/>
+	    <itemref idref="chapter06"/>
+	    <itemref idref="lastpage"/>
+	    <itemref idref="navid"/>
+  	</spine> -->
+  	<guide>
+    	<reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    	<reference href="OEBPS/Text/TOC.xhtml" title="Nội dung giản lược" type="toc"/>
+  	</guide>
+</package>
