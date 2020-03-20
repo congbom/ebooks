@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+  	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title id="title">Mặt Nạ Thủy Tinh</dc:title>
+		<dc:creator id="author">Miuchi Suzue</dc:creator>
+		<dc:language id="lang">vi</dc:language>
+		<dc:identifier id="uid">WIP-eBooks-MatNaThuyTinh</dc:identifier>
+		<meta property="dcterms:modified">2020-02-25T16:38:35Z</meta>
+  	</metadata>
+  	<manifest>
+		<item id="Tap-01" href="content/01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-02" href="content/02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-03" href="content/03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-04" href="content/04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-05" href="content/05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-06" href="content/06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-07" href="content/07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-08" href="content/08.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-09" href="content/09.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-10" href="content/10.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-11" href="content/11.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-12" href="content/12.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-13" href="content/13.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-14" href="content/14.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-15" href="content/15.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-16" href="content/16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-17" href="content/17.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-18" href="content/18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-19" href="content/19.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-20" href="content/20.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-21" href="content/21.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-22" href="content/22.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-23" href="content/23.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-24" href="content/24.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-25" href="content/25.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-26" href="content/26.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-27" href="content/27.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-28" href="content/28.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-29" href="content/29.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-30" href="content/30.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-31" href="content/31.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-32" href="content/32.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-33" href="content/33.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-34" href="content/34.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-35" href="content/35.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-36" href="content/36.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-37" href="content/37.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-38" href="content/38.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-39" href="content/39.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-40" href="content/40.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-41" href="content/41.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-42" href="content/42.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-43" href="content/43.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-44" href="content/44.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-45" href="content/45.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-46" href="content/46.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-47" href="content/47.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-48" href="content/48.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-49" href="content/49.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-50" href="content/50.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-51" href="content/51.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-52" href="content/52.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-53" href="content/53.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-54" href="content/54.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-55" href="content/55.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-56" href="content/56.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-57" href="content/57.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-58" href="content/58.xhtml" media-type="application/xhtml+xml"/>
+		<item id="Tap-59" href="content/59.xhtml" media-type="application/xhtml+xml"/>
+		<item id="navigation" href="others/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="coverimage" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+  	</manifest>
+  	<spine>
+	    <itemref idref="Tap-00"/>
+	    <itemref idref="Tap-01"/>
+	    <itemref idref="Tap-02"/>
+	    <itemref idref="Tap-03"/>
+	    <itemref idref="Tap-04"/>
+	    <itemref idref="Tap-05"/>
+	    <itemref idref="Tap-06"/>
+	    <itemref idref="Tap-07"/>
+	    <itemref idref="Tap-08"/>
+	    <itemref idref="Tap-09"/>
+	    <itemref idref="Tap-10"/>
+	    <itemref idref="Tap-11"/>
+	    <itemref idref="Tap-12"/>
+	    <itemref idref="Tap-13"/>
+	    <itemref idref="Tap-14"/>
+	    <itemref idref="Tap-15"/>
+	    <itemref idref="Tap-16"/>
+	    <itemref idref="Tap-17"/>
+	    <itemref idref="Tap-18"/>
+	    <itemref idref="Tap-19"/>
+	    <itemref idref="Tap-20"/>
+	    <itemref idref="Tap-21"/>
+	    <itemref idref="Tap-22"/>
+	    <itemref idref="Tap-23"/>
+	    <itemref idref="Tap-24"/>
+	    <itemref idref="Tap-25"/>
+	    <itemref idref="Tap-26"/>
+	    <itemref idref="Tap-27"/>
+	    <itemref idref="Tap-28"/>
+	    <itemref idref="Tap-29"/>
+	    <itemref idref="Tap-30"/>
+	    <itemref idref="Tap-31"/>
+	    <itemref idref="Tap-32"/>
+	    <itemref idref="Tap-33"/>
+	    <itemref idref="Tap-34"/>
+	    <itemref idref="Tap-35"/>
+	    <itemref idref="Tap-36"/>
+	    <itemref idref="Tap-37"/>
+	    <itemref idref="Tap-38"/>
+	    <itemref idref="Tap-39"/>
+	    <itemref idref="Tap-40"/>
+	    <itemref idref="Tap-41"/>
+	    <itemref idref="Tap-42"/>
+	    <itemref idref="Tap-43"/>
+	    <itemref idref="Tap-44"/>
+	    <itemref idref="Tap-45"/>
+	    <itemref idref="Tap-46"/>
+	    <itemref idref="Tap-47"/>
+	    <itemref idref="Tap-48"/>
+	    <itemref idref="Tap-49"/>
+	    <itemref idref="Tap-50"/>  
+	    <itemref idref="Tap-51"/>  
+	    <itemref idref="Tap-52"/>  
+	    <itemref idref="Tap-53"/>  
+	    <itemref idref="Tap-54"/>  
+	    <itemref idref="Tap-55"/>  
+	    <itemref idref="Tap-56"/>  
+	    <itemref idref="Tap-57"/>  
+	    <itemref idref="Tap-58"/>  
+	    <itemref idref="Tap-59"/>  
+  	</spine>
+</package>
