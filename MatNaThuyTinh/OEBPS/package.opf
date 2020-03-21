@@ -71,7 +71,6 @@
 		<item id="coverimage" href="images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
   	</manifest>
   	<spine>
-	    <itemref idref="Tap-00"/>
 	    <itemref idref="Tap-01"/>
 	    <itemref idref="Tap-02"/>
 	    <itemref idref="Tap-03"/>
