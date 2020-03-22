@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta content="Anh Hùng Xạ Điêu - Kim Dung" name="calibre:title_sort"/>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">c5ed9ee2-6036-4a6e-bca6-068fd26bb20e</dc:identifier>
+    <meta content="2015-02-07T15:09:38.155000+00:00" name="calibre:timestamp"/>
+    <dc:identifier opf:scheme="calibre">c5ed9ee2-6036-4a6e-bca6-068fd26bb20e</dc:identifier>
+    <dc:creator opf:file-as="Dung, Kim" opf:role="aut">Kim Dung</dc:creator>
+    <dc:publisher>www.taisachhay.com</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:title>Anh Hùng Xạ Điêu - Kim Dung</dc:title>
+    <dc:contributor opf:role="bkp">calibre (2.16.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="cover" content="cover.JPG"/>
+    <meta content="0.9.2" name="Sigil version"/>
+    <dc:date opf:event="modification" xmlns:opf="http://www.idpf.org/2007/opf">2016-02-25</dc:date>
+  </metadata>
+  <manifest>
+    <item href="Text/index_split_002.html" id="id178" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_002.html" id="id178" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_003.html" id="id177" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_004.html" id="id176" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_005.html" id="id175" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_006.html" id="id174" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_007.html" id="id173" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_008.html" id="id172" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_009.html" id="id171" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_010.html" id="id170" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_011.html" id="id169" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_012.html" id="id168" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_013.html" id="id167" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_014.html" id="id166" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_015.html" id="id165" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_016.html" id="id164" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_017.html" id="id163" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_018.html" id="id162" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_019.html" id="id161" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_020.html" id="id160" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_021.html" id="id159" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_022.html" id="id158" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_023.html" id="id157" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_024.html" id="id156" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_025.html" id="id155" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_026.html" id="id154" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_027.html" id="id153" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_028.html" id="id152" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_029.html" id="id151" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_030.html" id="id150" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_031.html" id="id149" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_032.html" id="id148" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_033.html" id="id147" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_034.html" id="id146" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_035.html" id="id145" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_036.html" id="id144" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_037.html" id="id143" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_038.html" id="id142" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_039.html" id="id141" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_040.html" id="id140" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_041.html" id="id139" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_042.html" id="id138" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_043.html" id="id137" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_044.html" id="id136" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_045.html" id="id135" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_046.html" id="id134" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_047.html" id="id133" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_048.html" id="id132" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_049.html" id="id131" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_050.html" id="id130" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_051.html" id="id129" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_052.html" id="id128" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_053.html" id="id127" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_054.html" id="id126" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_055.html" id="id125" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_056.html" id="id124" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_057.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_058.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_059.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_060.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_061.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_062.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_063.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_064.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_065.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_066.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_067.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_068.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_069.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_070.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_071.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_072.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_073.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_074.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_075.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_076.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_077.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_078.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Text/index_split_079.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Images/cover.JPG" id="cover.JPG" media-type="image/jpeg"/>
+    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+  </spine>
+</package>
