@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+  	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title id="title">Anh Hùng Xạ Điêu</dc:title>
+		<dc:creator id="author">Kim Dung</dc:creator>
+		<dc:language id="lang">vi</dc:language>
+		<dc:identifier id="uid">WIP-eBooks-AnhHungXaDieu</dc:identifier>
+		<meta property="dcterms:modified">2020-03-22T16:38:35Z</meta>
+  	</metadata>
+  	<manifest>
+		<item id="chapter01" href="OEBPS/content/01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter02" href="OEBPS/content/02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter03" href="OEBPS/content/03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter04" href="OEBPS/content/04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter05" href="OEBPS/content/05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter06" href="OEBPS/content/06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter07" href="OEBPS/content/07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter08" href="OEBPS/content/08.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter09" href="OEBPS/content/09.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter10" href="OEBPS/content/10.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter11" href="OEBPS/content/11.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter12" href="OEBPS/content/12.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter13" href="OEBPS/content/13.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter14" href="OEBPS/content/14.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter15" href="OEBPS/content/15.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter16" href="OEBPS/content/16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter17" href="OEBPS/content/17.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter18" href="OEBPS/content/18.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter19" href="OEBPS/content/19.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter20" href="OEBPS/content/20.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter21" href="OEBPS/content/21.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter22" href="OEBPS/content/22.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter23" href="OEBPS/content/23.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter24" href="OEBPS/content/24.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter25" href="OEBPS/content/25.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter26" href="OEBPS/content/26.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter27" href="OEBPS/content/27.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter28" href="OEBPS/content/28.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter29" href="OEBPS/content/29.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter30" href="OEBPS/content/30.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter31" href="OEBPS/content/31.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter32" href="OEBPS/content/32.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter33" href="OEBPS/content/33.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter34" href="OEBPS/content/34.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter35" href="OEBPS/content/35.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter36" href="OEBPS/content/36.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter37" href="OEBPS/content/37.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter38" href="OEBPS/content/38.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter39" href="OEBPS/content/39.xhtml" media-type="application/xhtml+xml"/>
+		<item id="chapter40" href="OEBPS/content/40.xhtml" media-type="application/xhtml+xml"/>
+		<item id="navigation" href="OEBPS/others/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="coverimage" href="OEBPS/images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+  	</manifest>
+  	<spine>
+	    <itemref idref="chapter01"/>
+	    <itemref idref="chapter02"/>
+	    <itemref idref="chapter03"/>
+	    <itemref idref="chapter04"/>
+	    <itemref idref="chapter05"/>
+	    <itemref idref="chapter06"/>
+	    <itemref idref="chapter07"/>
+	    <itemref idref="chapter08"/>
+	    <itemref idref="chapter09"/>
+	    <itemref idref="chapter10"/>
+	    <itemref idref="chapter11"/>
+	    <itemref idref="chapter12"/>
+	    <itemref idref="chapter13"/>
+	    <itemref idref="chapter14"/>
+	    <itemref idref="chapter15"/>
+	    <itemref idref="chapter16"/>
+	    <itemref idref="chapter17"/>
+	    <itemref idref="chapter18"/>
+	    <itemref idref="chapter19"/>
+	    <itemref idref="chapter20"/>
+	    <itemref idref="chapter21"/>
+	    <itemref idref="chapter22"/>
+	    <itemref idref="chapter23"/>
+	    <itemref idref="chapter24"/>
+	    <itemref idref="chapter25"/>
+	    <itemref idref="chapter26"/>
+	    <itemref idref="chapter27"/>
+	    <itemref idref="chapter28"/>
+	    <itemref idref="chapter29"/>
+	    <itemref idref="chapter30"/>
+	    <itemref idref="chapter31"/>
+	    <itemref idref="chapter32"/>
+	    <itemref idref="chapter33"/>
+	    <itemref idref="chapter34"/>
+	    <itemref idref="chapter35"/>
+	    <itemref idref="chapter36"/>
+	    <itemref idref="chapter37"/>
+	    <itemref idref="chapter38"/>
+	    <itemref idref="chapter39"/>
+	    <itemref idref="chapter40"/>
+  	</spine>
+</package>
