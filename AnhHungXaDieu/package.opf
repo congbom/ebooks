@@ -5,7 +5,7 @@
 		<dc:creator id="author">Kim Dung</dc:creator>
 		<dc:language id="lang">vi</dc:language>
 		<dc:identifier id="uid">WIP-eBooks-AnhHungXaDieu-100</dc:identifier>
-		<meta property="dcterms:modified">2020-03-22T16:38:35Z</meta>
+		<meta property="dcterms:modified">2020-03-23T16:38:35Z</meta>
   	</metadata>
   	<manifest>
 		<item id="chapter01" href="OEBPS/content/01.xhtml" media-type="application/xhtml+xml"/>
