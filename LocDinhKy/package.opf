@@ -67,7 +67,6 @@
     <spine>
         <itemref idref="titlepage" />
         <itemref idref="beginpage" />
-        <itemref idref="chapter00" />
         <itemref idref="chapter01" />
         <itemref idref="chapter02" />
         <itemref idref="chapter03" />
