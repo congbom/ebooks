@@ -143,10 +143,10 @@
         <item id="Q6_29" href="OEBPS/content/Q6/29.xhtml" media-type="application/xhtml+xml" />
         <item id="Q6_30" href="OEBPS/content/Q6/30.xhtml" media-type="application/xhtml+xml" />
         <item id="titlepage" href="OEBPS/others/titlepage.xhtml" media-type="application/xhtml+xml" />
-        <item id="beginpage" href="OEBPS/others/titlepage.xhtml" media-type="application/xhtml+xml" />
+        <item id="beginpage" href="OEBPS/others/beginpage.xhtml" media-type="application/xhtml+xml" />
         <item id="endpage" href="OEBPS/others/endpage.xhtml" media-type="application/xhtml+xml" />
         <item id="navigator" href="OEBPS/others/navigator.xhtml" media-type="application/xhtml+xml" properties="nav" />
-        <item id="coverimg" href="OEBPS/images/cover.jpeg" media-type="image/jpeg" properties="cover-image" />
+        <item id="coverimg" href="OEBPS/images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
     </manifest>
     <spine>
         <itemref idref="titlepage" />
