@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title id="title">Hậu cung Như Ý truyện</dc:title>
+        <dc:creator id="author">Lưu Liễm Tử</dc:creator>
+        <dc:language id="lang">vi</dc:language>
+        <dc:identifier id="uid">WIP-eBooks-HauCungNhuYTruyen-100000</dc:identifier>
+        <meta property="dcterms:modified">2020-06-08T11:18:35Z</meta>
+    </metadata>
+    <manifest>
+        <item id="Q1_01" href="OEBPS/content/Q1/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_02" href="OEBPS/content/Q1/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_03" href="OEBPS/content/Q1/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_04" href="OEBPS/content/Q1/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_05" href="OEBPS/content/Q1/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_06" href="OEBPS/content/Q1/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_07" href="OEBPS/content/Q1/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_08" href="OEBPS/content/Q1/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_09" href="OEBPS/content/Q1/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_10" href="OEBPS/content/Q1/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_11" href="OEBPS/content/Q1/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_12" href="OEBPS/content/Q1/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_13" href="OEBPS/content/Q1/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_14" href="OEBPS/content/Q1/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_15" href="OEBPS/content/Q1/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_16" href="OEBPS/content/Q1/16.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_17" href="OEBPS/content/Q1/17.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_18" href="OEBPS/content/Q1/18.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_19" href="OEBPS/content/Q1/19.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_20" href="OEBPS/content/Q1/20.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_21" href="OEBPS/content/Q1/21.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_22" href="OEBPS/content/Q1/22.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_23" href="OEBPS/content/Q1/23.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_24" href="OEBPS/content/Q1/24.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_25" href="OEBPS/content/Q1/25.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_26" href="OEBPS/content/Q1/26.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_27" href="OEBPS/content/Q1/27.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_28" href="OEBPS/content/Q1/28.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_29" href="OEBPS/content/Q1/29.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_30" href="OEBPS/content/Q1/30.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_31" href="OEBPS/content/Q1/31.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_32" href="OEBPS/content/Q1/32.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_33" href="OEBPS/content/Q1/33.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_34" href="OEBPS/content/Q1/34.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_35" href="OEBPS/content/Q1/35.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q1_36" href="OEBPS/content/Q1/36.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_01" href="OEBPS/content/Q2/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_02" href="OEBPS/content/Q2/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_03" href="OEBPS/content/Q2/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_04" href="OEBPS/content/Q2/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_05" href="OEBPS/content/Q2/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_06" href="OEBPS/content/Q2/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_07" href="OEBPS/content/Q2/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_08" href="OEBPS/content/Q2/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_09" href="OEBPS/content/Q2/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_10" href="OEBPS/content/Q2/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_11" href="OEBPS/content/Q2/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_12" href="OEBPS/content/Q2/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_13" href="OEBPS/content/Q2/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_14" href="OEBPS/content/Q2/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_15" href="OEBPS/content/Q2/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_16" href="OEBPS/content/Q2/16.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_17" href="OEBPS/content/Q2/17.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q2_18" href="OEBPS/content/Q2/18.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_01" href="OEBPS/content/Q3/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_02" href="OEBPS/content/Q3/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_03" href="OEBPS/content/Q3/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_04" href="OEBPS/content/Q3/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_05" href="OEBPS/content/Q3/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_06" href="OEBPS/content/Q3/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_07" href="OEBPS/content/Q3/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_08" href="OEBPS/content/Q3/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_09" href="OEBPS/content/Q3/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_10" href="OEBPS/content/Q3/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_11" href="OEBPS/content/Q3/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_12" href="OEBPS/content/Q3/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_13" href="OEBPS/content/Q3/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_14" href="OEBPS/content/Q3/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q3_15" href="OEBPS/content/Q3/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_01" href="OEBPS/content/Q4/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_02" href="OEBPS/content/Q4/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_03" href="OEBPS/content/Q4/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_04" href="OEBPS/content/Q4/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_05" href="OEBPS/content/Q4/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_06" href="OEBPS/content/Q4/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_07" href="OEBPS/content/Q4/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_08" href="OEBPS/content/Q4/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_09" href="OEBPS/content/Q4/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_10" href="OEBPS/content/Q4/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_11" href="OEBPS/content/Q4/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_12" href="OEBPS/content/Q4/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_13" href="OEBPS/content/Q4/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_14" href="OEBPS/content/Q4/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q4_15" href="OEBPS/content/Q4/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_01" href="OEBPS/content/Q5/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_02" href="OEBPS/content/Q5/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_03" href="OEBPS/content/Q5/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_04" href="OEBPS/content/Q5/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_05" href="OEBPS/content/Q5/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_06" href="OEBPS/content/Q5/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_07" href="OEBPS/content/Q5/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_08" href="OEBPS/content/Q5/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_09" href="OEBPS/content/Q5/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_10" href="OEBPS/content/Q5/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_11" href="OEBPS/content/Q5/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_12" href="OEBPS/content/Q5/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_13" href="OEBPS/content/Q5/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_14" href="OEBPS/content/Q5/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_15" href="OEBPS/content/Q5/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_16" href="OEBPS/content/Q5/16.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_17" href="OEBPS/content/Q5/17.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_18" href="OEBPS/content/Q5/18.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_19" href="OEBPS/content/Q5/19.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q5_20" href="OEBPS/content/Q5/20.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_01" href="OEBPS/content/Q6/01.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_02" href="OEBPS/content/Q6/02.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_03" href="OEBPS/content/Q6/03.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_04" href="OEBPS/content/Q6/04.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_05" href="OEBPS/content/Q6/05.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_06" href="OEBPS/content/Q6/06.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_07" href="OEBPS/content/Q6/07.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_08" href="OEBPS/content/Q6/08.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_09" href="OEBPS/content/Q6/09.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_10" href="OEBPS/content/Q6/10.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_11" href="OEBPS/content/Q6/11.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_12" href="OEBPS/content/Q6/12.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_13" href="OEBPS/content/Q6/13.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_14" href="OEBPS/content/Q6/14.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_15" href="OEBPS/content/Q6/15.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_16" href="OEBPS/content/Q6/16.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_17" href="OEBPS/content/Q6/17.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_18" href="OEBPS/content/Q6/18.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_19" href="OEBPS/content/Q6/19.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_20" href="OEBPS/content/Q6/20.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_21" href="OEBPS/content/Q6/21.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_22" href="OEBPS/content/Q6/22.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_23" href="OEBPS/content/Q6/23.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_24" href="OEBPS/content/Q6/24.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_25" href="OEBPS/content/Q6/25.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_26" href="OEBPS/content/Q6/26.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_27" href="OEBPS/content/Q6/27.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_28" href="OEBPS/content/Q6/28.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_29" href="OEBPS/content/Q6/29.xhtml" media-type="application/xhtml+xml" />
+        <item id="Q6_30" href="OEBPS/content/Q6/30.xhtml" media-type="application/xhtml+xml" />
+        <item id="titlepage" href="OEBPS/others/titlepage.xhtml" media-type="application/xhtml+xml" />
+        <item id="beginpage" href="OEBPS/others/beginpage.xhtml" media-type="application/xhtml+xml" />
+        <item id="endpage" href="OEBPS/others/endpage.xhtml" media-type="application/xhtml+xml" />
+        <item id="navigator" href="OEBPS/others/navigator.xhtml" media-type="application/xhtml+xml" properties="nav" />
+        <item id="coverimg" href="OEBPS/images/cover.jpg" media-type="image/jpeg" properties="cover-image" />
+    </manifest>
+    <spine>
+        <itemref idref="titlepage" />
+        <itemref idref="beginpage" />
+        <itemref idref="Q1_01" />
+        <itemref idref="Q1_02" />
+        <itemref idref="Q1_03" />
+        <itemref idref="Q1_04" />
+        <itemref idref="Q1_05" />
+        <itemref idref="Q1_06" />
+        <itemref idref="Q1_07" />
+        <itemref idref="Q1_08" />
+        <itemref idref="Q1_09" />
+        <itemref idref="Q1_10" />
+        <itemref idref="Q1_11" />
+        <itemref idref="Q1_12" />
+        <itemref idref="Q1_13" />
+        <itemref idref="Q1_14" />
+        <itemref idref="Q1_15" />
+        <itemref idref="Q1_16" />
+        <itemref idref="Q1_17" />
+        <itemref idref="Q1_18" />
+        <itemref idref="Q1_19" />
+        <itemref idref="Q1_20" />
+        <itemref idref="Q1_21" />
+        <itemref idref="Q1_22" />
+        <itemref idref="Q1_23" />
+        <itemref idref="Q1_24" />
+        <itemref idref="Q1_25" />
+        <itemref idref="Q1_26" />
+        <itemref idref="Q1_27" />
+        <itemref idref="Q1_28" />
+        <itemref idref="Q1_29" />
+        <itemref idref="Q1_30" />
+        <itemref idref="Q1_31" />
+        <itemref idref="Q1_32" />
+        <itemref idref="Q1_33" />
+        <itemref idref="Q1_34" />
+        <itemref idref="Q1_35" />
+        <itemref idref="Q1_36" />
+        <itemref idref="Q2_01" />
+        <itemref idref="Q2_02" />
+        <itemref idref="Q2_03" />
+        <itemref idref="Q2_04" />
+        <itemref idref="Q2_05" />
+        <itemref idref="Q2_06" />
+        <itemref idref="Q2_07" />
+        <itemref idref="Q2_08" />
+        <itemref idref="Q2_09" />
+        <itemref idref="Q2_10" />
+        <itemref idref="Q2_11" />
+        <itemref idref="Q2_12" />
+        <itemref idref="Q2_13" />
+        <itemref idref="Q2_14" />
+        <itemref idref="Q2_15" />
+        <itemref idref="Q2_16" />
+        <itemref idref="Q2_17" />
+        <itemref idref="Q2_18" />
+        <itemref idref="Q3_01" />
+        <itemref idref="Q3_02" />
+        <itemref idref="Q3_03" />
+        <itemref idref="Q3_04" />
+        <itemref idref="Q3_05" />
+        <itemref idref="Q3_06" />
+        <itemref idref="Q3_07" />
+        <itemref idref="Q3_08" />
+        <itemref idref="Q3_09" />
+        <itemref idref="Q3_10" />
+        <itemref idref="Q3_11" />
+        <itemref idref="Q3_12" />
+        <itemref idref="Q3_13" />
+        <itemref idref="Q3_14" />
+        <itemref idref="Q3_15" />
+        <itemref idref="Q4_01" />
+        <itemref idref="Q4_02" />
+        <itemref idref="Q4_03" />
+        <itemref idref="Q4_04" />
+        <itemref idref="Q4_05" />
+        <itemref idref="Q4_06" />
+        <itemref idref="Q4_07" />
+        <itemref idref="Q4_08" />
+        <itemref idref="Q4_09" />
+        <itemref idref="Q4_10" />
+        <itemref idref="Q4_11" />
+        <itemref idref="Q4_12" />
+        <itemref idref="Q4_13" />
+        <itemref idref="Q4_14" />
+        <itemref idref="Q4_15" />
+        <itemref idref="Q5_01" />
+        <itemref idref="Q5_02" />
+        <itemref idref="Q5_03" />
+        <itemref idref="Q5_04" />
+        <itemref idref="Q5_05" />
+        <itemref idref="Q5_06" />
+        <itemref idref="Q5_07" />
+        <itemref idref="Q5_08" />
+        <itemref idref="Q5_09" />
+        <itemref idref="Q5_10" />
+        <itemref idref="Q5_11" />
+        <itemref idref="Q5_12" />
+        <itemref idref="Q5_13" />
+        <itemref idref="Q5_14" />
+        <itemref idref="Q5_15" />
+        <itemref idref="Q5_16" />
+        <itemref idref="Q5_17" />
+        <itemref idref="Q5_18" />
+        <itemref idref="Q5_19" />
+        <itemref idref="Q5_20" />
+        <itemref idref="Q6_01" />
+        <itemref idref="Q6_02" />
+        <itemref idref="Q6_03" />
+        <itemref idref="Q6_04" />
+        <itemref idref="Q6_05" />
+        <itemref idref="Q6_06" />
+        <itemref idref="Q6_07" />
+        <itemref idref="Q6_08" />
+        <itemref idref="Q6_09" />
+        <itemref idref="Q6_10" />
+        <itemref idref="Q6_11" />
+        <itemref idref="Q6_12" />
+        <itemref idref="Q6_13" />
+        <itemref idref="Q6_14" />
+        <itemref idref="Q6_15" />
+        <itemref idref="Q6_16" />
+        <itemref idref="Q6_17" />
+        <itemref idref="Q6_18" />
+        <itemref idref="Q6_19" />
+        <itemref idref="Q6_20" />
+        <itemref idref="Q6_21" />
+        <itemref idref="Q6_22" />
+        <itemref idref="Q6_23" />
+        <itemref idref="Q6_24" />
+        <itemref idref="Q6_25" />
+        <itemref idref="Q6_26" />
+        <itemref idref="Q6_27" />
+        <itemref idref="Q6_28" />
+        <itemref idref="Q6_29" />
+        <itemref idref="Q6_30" />
+        <itemref idref="endpage" />
+    </spine>
+</package>
