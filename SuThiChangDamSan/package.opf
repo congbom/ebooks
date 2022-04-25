@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+  	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:title id="title">SỬ THI CHÀNG DAM SAN</dc:title>
+		<dc:creator id="author">KLEI KHAN Y DAM SAN</dc:creator>
+		<dc:language id="lang">vi</dc:language>
+		<dc:identifier id="uid">WIP-eBooks-SuThiChangDamSan-100</dc:identifier>
+		<meta property="dcterms:modified">2022-04-25T16:38:35Z</meta>
+  	</metadata>
+  	<manifest>
+		<item id="titlepage" href="OEBPS/others/titlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_01" href="OEBPS/content/01.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_02" href="OEBPS/content/02.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_03" href="OEBPS/content/03.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_04" href="OEBPS/content/04.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_05" href="OEBPS/content/05.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_06" href="OEBPS/content/06.xhtml" media-type="application/xhtml+xml"/>
+		<item id="content_07" href="OEBPS/content/07.xhtml" media-type="application/xhtml+xml"/>
+		<item id="commention" href="OEBPS/others/commention.xhtml" media-type="application/xhtml+xml"/>
+		<item id="navigation" href="OEBPS/others/navigation.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item id="coverimage" href="OEBPS/images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+  	</manifest>
+  	<spine>
+	    <itemref idref="titlepage"/>
+	    <itemref idref="content_01"/>
+	    <itemref idref="content_02"/>
+	    <itemref idref="content_03"/>
+	    <itemref idref="content_04"/>
+	    <itemref idref="content_05"/>
+	    <itemref idref="content_06"/>
+	    <itemref idref="content_07"/>
+	    <itemref idref="commention"/>
+  	</spine>
+</package>
