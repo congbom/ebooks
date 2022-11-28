@@ -29,12 +29,14 @@
         <item id="chapter19" href="OEBPS/content/19.xhtml" media-type="application/xhtml+xml" />
         <item id="chapter20" href="OEBPS/content/20.xhtml" media-type="application/xhtml+xml" />
         <item id="chapter21" href="OEBPS/content/21.xhtml" media-type="application/xhtml+xml" />
+        <item id="coverpage" href="OEBPS/others/coverpage.xhtml" media-type="application/xhtml+xml" />
         <item id="titlepage" href="OEBPS/others/titlepage.xhtml" media-type="application/xhtml+xml" />
         <item id="endpage" href="OEBPS/others/endpage.xhtml" media-type="application/xhtml+xml" />
         <item id="navigator" href="OEBPS/others/navigator.xhtml" media-type="application/xhtml+xml" properties="nav" />
         <item id="coverimg" href="OEBPS/images/cover.jpeg" media-type="image/jpeg" properties="cover-image" />
     </manifest>
     <spine>
+        <itemref idref="coverpage" />
         <itemref idref="titlepage" />
         <itemref idref="chapter01" />
         <itemref idref="chapter02" />
